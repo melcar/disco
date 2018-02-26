@@ -5,7 +5,8 @@
 A MQTT enabled disco ball. Start the CI disco ball with wifi by adding value to the MQTT broker.
 
 The MQTT library used in this project is [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) from tuanpmt.
-
+## Install the SDK
+follo this [Link](https://github.com/pfalcon/esp-open-sdk).
 ## Compile
 
 Be sure to change the settings in the files in `include/user_config.h`.
